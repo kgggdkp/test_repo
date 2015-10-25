@@ -2,4 +2,4 @@
 just a test
 
 del line
-and added 2
+and added two
