@@ -1,3 +1,3 @@
 <test>
-  change from site
+  change from site*
 </test>
